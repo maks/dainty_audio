@@ -1,0 +1,13 @@
+name: dainty_audio
+description: A Dart FFI binding to miniaudio
+version: 0.0.1
+homepage: https://github.com/maks/dainty_audio
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+#dependencies:
+#  path: ^1.7.0
+
+dev_dependencies:
+  pedantic: ^1.9.0
